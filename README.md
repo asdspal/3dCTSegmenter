@@ -41,5 +41,5 @@ If you have not installed all required dependencies, follow the [Installation Gu
 
 
 ## Running Streamlit app
-pip install streamlit
-streamlit run 3D-CT-Segmenter-App.py
+pip install streamlit  
+streamlit run 3D-CT-Segmenter-App.py  
