@@ -38,3 +38,8 @@ overlayed in red. A pre-trained and quantized model is provided, so running the 
 ## Installation Instructions
 
 If you have not installed all required dependencies, follow the [Installation Guide](../../README.md).
+
+
+## Running Streamlit app
+pip install streamlit
+streamlit run 3D-CT-Segmenter-App.py
